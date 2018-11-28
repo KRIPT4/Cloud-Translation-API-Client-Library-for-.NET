@@ -1,6 +1,8 @@
 Cloud Translation API Client Library for .NET
 =============================================
 
+![Cloud Translation API Client Library for .NET](https://cdn.pbrd.co/images/HPhA7tY.png)
+
 Visual Studio 2017 v15.7.3
 
 # About
